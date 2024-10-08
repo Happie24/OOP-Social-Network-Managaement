@@ -1,4 +1,4 @@
-# OOP - Social Network Managaement
+# OOP - Social Network Management
 
 The Social Network Management System is designed to manage users, posts, comments, friendships, messages, groups, and notifications within a social network. The system includes several classes, each with specific attributes and methods to handle various functionalities.
 
